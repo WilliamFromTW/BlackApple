@@ -1,0 +1,2 @@
+# BlackApple
+OpenCore configuration
